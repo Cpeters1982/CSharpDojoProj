@@ -1,0 +1,10 @@
+/Volumes/HolyMountain/Projects/CSharpProj/csharp_test/bin/Debug/netcoreapp2.0/csharp_test.deps.json
+/Volumes/HolyMountain/Projects/CSharpProj/csharp_test/bin/Debug/netcoreapp2.0/csharp_test.runtimeconfig.json
+/Volumes/HolyMountain/Projects/CSharpProj/csharp_test/bin/Debug/netcoreapp2.0/csharp_test.runtimeconfig.dev.json
+/Volumes/HolyMountain/Projects/CSharpProj/csharp_test/bin/Debug/netcoreapp2.0/csharp_test.dll
+/Volumes/HolyMountain/Projects/CSharpProj/csharp_test/bin/Debug/netcoreapp2.0/csharp_test.pdb
+/Volumes/HolyMountain/Projects/CSharpProj/csharp_test/obj/Debug/netcoreapp2.0/csharp_test.csproj.CoreCompileInputs.cache
+/Volumes/HolyMountain/Projects/CSharpProj/csharp_test/obj/Debug/netcoreapp2.0/csharp_test.AssemblyInfoInputs.cache
+/Volumes/HolyMountain/Projects/CSharpProj/csharp_test/obj/Debug/netcoreapp2.0/csharp_test.AssemblyInfo.cs
+/Volumes/HolyMountain/Projects/CSharpProj/csharp_test/obj/Debug/netcoreapp2.0/csharp_test.dll
+/Volumes/HolyMountain/Projects/CSharpProj/csharp_test/obj/Debug/netcoreapp2.0/csharp_test.pdb

@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/HolyMountain/Projects/CSharpProj/first_csharp/first_csharp.csproj",
-      "projectName": "first_csharp",
-      "projectPath": "/Volumes/HolyMountain/Projects/CSharpProj/first_csharp/first_csharp.csproj",
+      "projectUniqueName": "/Volumes/HolyMountain/Projects/CSharpProj/csharp_test/csharp_test.csproj",
+      "projectName": "csharp_test",
+      "projectPath": "/Volumes/HolyMountain/Projects/CSharpProj/csharp_test/csharp_test.csproj",
       "packagesPath": "/Users/wallofyawn/.nuget/packages/",
-      "outputPath": "/Volumes/HolyMountain/Projects/CSharpProj/first_csharp/obj/",
+      "outputPath": "/Volumes/HolyMountain/Projects/CSharpProj/csharp_test/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

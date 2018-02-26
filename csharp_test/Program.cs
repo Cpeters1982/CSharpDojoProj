@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace first_csharp
+namespace csharp_test
 {
     class Program
     {
