@@ -4,8 +4,14 @@ namespace csharp_test
 {
     class Program
     {
-        static void Main(string[] args)
-        {
+        static void Main(string[] args){
+            int [] numArray = new int[5];
+            int [] numArray2 = {1,2,3,4,6};
+            Console.WriteLine(numArray2[2]);
+            
+        }
+    }
+}   
             // Console.WriteLine("Hello World!");
             
             // int rings = 5;
@@ -56,8 +62,42 @@ namespace csharp_test
             // 
             // ------------------------------------------------------------- //
             // Random in C# is provided by the System namespace
-            Random rand = new Random();
+            // Random rand = new Random();
+            // for(int val = 0; val < 10; val++)
+            // {
+            //     Console.WriteLine(rand.Next(2,8));
+            // } 
+            // for(int i = 1; i < 255; i++){
+            //     Console.WriteLine(i);
+            // }
+            // for(int i = 1; i <= 100; i++){
+            //     if((i % 3 == 0) || (i % 5 == 0)){
+            //         if((i % 15 == 0)){
+            //             continue;
+            //         }
+            //         Console.WriteLine(i);
+            //     }
+            // }
+              // for(int i = 1; i < 255; i++){
+            //     Console.WriteLine(i);
+            // }
+            // for(int i = 1; i <= 100; i++){
+            //     if((i % 3 == 0) || (i % 5 == 0)){
+            //         if((i % 15 == 0)){
+            //             continue;
+            //         }
+            //         Console.WriteLine(i);
+            //     }
+            // }
             
-        }
-    }
-}
+            // for (int i = 1; i <= 100; i++){
+            //     if ((i % 15 == 0)){
+            //         System.Console.WriteLine("FizzBuzz");
+            //     } else if ((i % 3 == 0)){
+            //         System.Console.WriteLine("Fizz");
+            //     } else if ((i % 5 == 0)){
+            //         System.Console.WriteLine("Buzz");
+            //     } else {
+            //         System.Console.WriteLine(i);
+            //     }
+            // }
