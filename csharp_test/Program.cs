@@ -34,17 +34,17 @@ namespace csharp_test
 
             // // Multidimensional array declaration
             // // This example contains three arrays -- each of these is length 2 -- all initialized to zeroes.
-            int [,] array2D = new int[3,2];
-            // // // This is equivalent to:
-            // // // int [,] array2D = new int[3,2] { {0,0}, {0,0}, [0.0]};
-            // // // THis example has two large rows that each contain 3 arrays -- and each of those arrays is length 4.
-            int[,,] array3D = new int[2,3,4]{
-                 { {45,1,16,17}, {4,47,21,68}, {21,28,32,76} },
-                 { {11,0,85,42}, {9,10,14,96}, {66,99,33,14} }
-            };
-            // // Directly accessing a multidimensional array
-            Console.WriteLine(array2D[0,1]);// prints 0
-            System.Console.WriteLine(array3D[1,0,3]);// prints 42
+            // int [,] array2D = new int[3,2];
+            // // // // This is equivalent to:
+            // // // // int [,] array2D = new int[3,2] { {0,0}, {0,0}, [0.0]};
+            // // // // THis example has two large rows that each contain 3 arrays -- and each of those arrays is length 4.
+            // int[,,] array3D = new int[2,3,4]{
+            //      { {45,1,16,17}, {4,47,21,68}, {21,28,32,76} },
+            //      { {11,0,85,42}, {9,10,14,96}, {66,99,33,14} }
+            // };
+            // // // Directly accessing a multidimensional array
+            // Console.WriteLine(array2D[0,1]);// prints 0
+            // System.Console.WriteLine(array3D[1,0,3]);// prints 42
 
             // Multidimensional arrays are quickly and neatly defined, but they do pose one important requirement. 
             // They require that they are perfectly rectangular, with all inner arrays having the same length. What 

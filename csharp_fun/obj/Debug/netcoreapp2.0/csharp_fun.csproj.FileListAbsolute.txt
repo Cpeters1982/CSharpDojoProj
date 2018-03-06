@@ -1,0 +1,10 @@
+/Volumes/HolyMountain/Projects/CSharpProj/csharp_fun/bin/Debug/netcoreapp2.0/csharp_fun.deps.json
+/Volumes/HolyMountain/Projects/CSharpProj/csharp_fun/bin/Debug/netcoreapp2.0/csharp_fun.runtimeconfig.json
+/Volumes/HolyMountain/Projects/CSharpProj/csharp_fun/bin/Debug/netcoreapp2.0/csharp_fun.runtimeconfig.dev.json
+/Volumes/HolyMountain/Projects/CSharpProj/csharp_fun/bin/Debug/netcoreapp2.0/csharp_fun.dll
+/Volumes/HolyMountain/Projects/CSharpProj/csharp_fun/bin/Debug/netcoreapp2.0/csharp_fun.pdb
+/Volumes/HolyMountain/Projects/CSharpProj/csharp_fun/obj/Debug/netcoreapp2.0/csharp_fun.csproj.CoreCompileInputs.cache
+/Volumes/HolyMountain/Projects/CSharpProj/csharp_fun/obj/Debug/netcoreapp2.0/csharp_fun.AssemblyInfoInputs.cache
+/Volumes/HolyMountain/Projects/CSharpProj/csharp_fun/obj/Debug/netcoreapp2.0/csharp_fun.AssemblyInfo.cs
+/Volumes/HolyMountain/Projects/CSharpProj/csharp_fun/obj/Debug/netcoreapp2.0/csharp_fun.dll
+/Volumes/HolyMountain/Projects/CSharpProj/csharp_fun/obj/Debug/netcoreapp2.0/csharp_fun.pdb
