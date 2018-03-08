@@ -1,0 +1,10 @@
+/Volumes/HolyMountain/Projects/CSharpProj/csharp_dict/bin/Debug/netcoreapp2.0/csharp_dict.deps.json
+/Volumes/HolyMountain/Projects/CSharpProj/csharp_dict/bin/Debug/netcoreapp2.0/csharp_dict.runtimeconfig.json
+/Volumes/HolyMountain/Projects/CSharpProj/csharp_dict/bin/Debug/netcoreapp2.0/csharp_dict.runtimeconfig.dev.json
+/Volumes/HolyMountain/Projects/CSharpProj/csharp_dict/bin/Debug/netcoreapp2.0/csharp_dict.dll
+/Volumes/HolyMountain/Projects/CSharpProj/csharp_dict/bin/Debug/netcoreapp2.0/csharp_dict.pdb
+/Volumes/HolyMountain/Projects/CSharpProj/csharp_dict/obj/Debug/netcoreapp2.0/csharp_dict.csproj.CoreCompileInputs.cache
+/Volumes/HolyMountain/Projects/CSharpProj/csharp_dict/obj/Debug/netcoreapp2.0/csharp_dict.AssemblyInfoInputs.cache
+/Volumes/HolyMountain/Projects/CSharpProj/csharp_dict/obj/Debug/netcoreapp2.0/csharp_dict.AssemblyInfo.cs
+/Volumes/HolyMountain/Projects/CSharpProj/csharp_dict/obj/Debug/netcoreapp2.0/csharp_dict.dll
+/Volumes/HolyMountain/Projects/CSharpProj/csharp_dict/obj/Debug/netcoreapp2.0/csharp_dict.pdb
