@@ -1,0 +1,10 @@
+/Volumes/HolyMountain/Projects/CSharpProj/collect_practice/obj/Debug/netcoreapp2.0/collect_practice.csproj.CoreCompileInputs.cache
+/Volumes/HolyMountain/Projects/CSharpProj/collect_practice/obj/Debug/netcoreapp2.0/collect_practice.AssemblyInfoInputs.cache
+/Volumes/HolyMountain/Projects/CSharpProj/collect_practice/obj/Debug/netcoreapp2.0/collect_practice.AssemblyInfo.cs
+/Volumes/HolyMountain/Projects/CSharpProj/collect_practice/bin/Debug/netcoreapp2.0/collect_practice.deps.json
+/Volumes/HolyMountain/Projects/CSharpProj/collect_practice/bin/Debug/netcoreapp2.0/collect_practice.runtimeconfig.json
+/Volumes/HolyMountain/Projects/CSharpProj/collect_practice/bin/Debug/netcoreapp2.0/collect_practice.runtimeconfig.dev.json
+/Volumes/HolyMountain/Projects/CSharpProj/collect_practice/bin/Debug/netcoreapp2.0/collect_practice.dll
+/Volumes/HolyMountain/Projects/CSharpProj/collect_practice/bin/Debug/netcoreapp2.0/collect_practice.pdb
+/Volumes/HolyMountain/Projects/CSharpProj/collect_practice/obj/Debug/netcoreapp2.0/collect_practice.dll
+/Volumes/HolyMountain/Projects/CSharpProj/collect_practice/obj/Debug/netcoreapp2.0/collect_practice.pdb
